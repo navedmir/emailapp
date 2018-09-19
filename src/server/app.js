@@ -3,7 +3,7 @@
 const express = require('express'),
     bodyParser = require('body-parser'),
     index = require('./routes/index'),
-    appConfig = require('../config/config');
+    appConfig = require('./config/config');
 
 // Instantiate express
 let app = express();
