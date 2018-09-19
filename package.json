@@ -1,7 +1,7 @@
 {
   "name": "emailapp",
   "version": "1.0.0",
-  "description": "Sample email application can use some service to send email to users",
+  "description": "Sample email application which can use some service to send email to users",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
